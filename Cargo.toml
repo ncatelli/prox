@@ -1,0 +1,5 @@
+[workspace.metadata]
+author = "Nate Catelli <ncatelli@packetfire.org>"
+
+[workspace]
+members = ["prox-core"]
